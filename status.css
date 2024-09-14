@@ -1,0 +1,77 @@
+h3{
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+}
+p{
+    width: 450px;
+    font-size: 1.5rem;
+    background-color: aliceblue;
+    margin-left: 450px;
+    font-family:serif;
+}
+.nav-bar{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #512772;
+}
+.box1{
+    color:#f4e300 ;
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin-right: 600px;
+}
+.box2{
+    font-weight: 500;
+}
+.box2 a{
+    text-decoration: none;
+    color: #150223;
+}
+.box3{
+    font-weight: 500;
+}
+.box3 a{
+    text-decoration: none;
+    color: #150223;
+}
+.box4{
+    font-weight: 500;
+}
+.box4 a{
+    text-decoration: none;
+    color: #150223;
+}
+.box5 a{
+    font-weight: 1000;
+    border-radius: 10%;
+    color: black;
+    text-decoration: none;
+}
+footer{
+    margin-top: 176px;
+    background-color:#f5f5f5;
+}
+.bottom-box-logo{
+    color:#f4e300 ;
+    font-size: 2rem;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+}
+.foot-panel1{
+    text-decoration: none;
+    margin-top:25px;
+    display: flex;
+    justify-content: center;
+    justify-content:space-around;
+    font-weight: 600;
+}
+.copyright{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 0.90rem;
+}

@@ -1,0 +1,28 @@
+.signin-container {
+    text-align: center;
+    margin-top: 100px;
+  }
+  body{
+    background-color: #512772;
+  }
+  input {
+    margin-bottom: 10px;
+  }
+  button {
+    padding: 10px 20px;
+  }
+h2{
+    font-size: 4rem;
+    font-variant: small-caps;
+    color: #f4e300 ;
+}
+input{
+    background-color:rgb(224, 229, 241);
+}
+button{
+    border-radius: 10%;
+    background-color: rgb(174, 187, 214);
+}
+.Username.placeholder{
+    font-weight: 800;
+}
